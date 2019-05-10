@@ -2,6 +2,8 @@
 
 Small flutter example project using a login and displaying a list of employees.
 
+The list of employees is generated using https://www.json-generator.com/# and can be found at http://www.json-generator.com/api/json/get/bQysixTOEO?indent=2
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
