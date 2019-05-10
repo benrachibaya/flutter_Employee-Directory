@@ -1,6 +1,6 @@
-# support_school
+# Empoyee Directory
 
-A new Flutter project.
+Small flutter example project using a login and displaying a list of employees.
 
 ## Getting Started
 
