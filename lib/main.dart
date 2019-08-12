@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return new MaterialApp(
-      title: 'School Supoort',
+      title: 'Employee Directory',
       theme: new ThemeData(primarySwatch: Colors.teal),
       routes: routes,
     );
